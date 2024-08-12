@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250">
+
+  <!-- Estrella -->
+  <polygon points="125,25 150,125 250,125 175,175 200,275 125,225 50,275 75,175 0,125 100,125" 
+           fill="rgb(173,216,230)" />
+
+  <!-- Texto -->
+  <text x="275" y="175" font-family="sans-serif" font-size="150" fill="rgb(173,216,230)" font-weight="bold">
+    INICIO
+  </text>
+</svg>
